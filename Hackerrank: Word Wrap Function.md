@@ -34,6 +34,7 @@ for i in range(n-1, 0, -1):
     print('* ' * i)
 ```
 ## Sample Output
+
 <img width="1187" height="395" alt="image" src="https://github.com/user-attachments/assets/566fa0fb-575e-4613-af22-3eab0f819070" />
 
 ## Result
